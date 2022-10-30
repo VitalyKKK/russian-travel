@@ -1,25 +1,26 @@
 .intro {
-    max-width: 984px;
-    margin: 0 auto;
-    width: 100%;
-  }
+  font-family:'inter', Arial, sans-serif;
+  max-width: 984px;
+  margin: 0 auto;
+  width: 100%;
+}
 
-  @media screen and (max-width: 1124px) {
-    .intro {
-      padding: 0 0 0 48px ;
-    }
+@media screen and (max-width: 1124px) {
+  .intro {
+    padding: 0 0 0 48px ;
   }
+}
   
-  @media screen and (max-width: 984px) {
-    .intro {
-      max-width: 720px;
-      padding: 0 24px;
-    }  
-  }
+@media screen and (max-width: 984px) {
+  .intro {
+    max-width: 720px;
+    padding: 0 24px;
+  }  
+}
   
-  @media screen and (max-width: 568px) {
-    .intro {
-      max-width: 288px;
-      padding: 0 16px;
-    }
+@media screen and (max-width: 568px) {
+  .intro {
+    max-width: 288px;
+    padding: 0 16px;
   }
+}

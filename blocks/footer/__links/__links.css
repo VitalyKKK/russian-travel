@@ -1,15 +1,15 @@
 .footer__links {
-    box-sizing: content-box;
+  box-sizing: content-box;
 }
 
 @media screen and (max-width: 568px) {
-    .footer__links {
-        margin-bottom: 48px;
-        display: flex;
-        flex-direction: column;
-        justify-content: flex-start;
-        align-items: flex-start;
-        text-align: start;
-    }
- }
+  .footer__links {
+    margin-bottom: 48px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    text-align: start;
+  }
+}
 
