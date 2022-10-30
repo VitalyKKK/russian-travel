@@ -15,7 +15,7 @@
 
 **GitHub Pages**
 
-* [Ссылка на макет в GitHub Pages](https://vitalykkk.github.io/russian-travel/)
+* [Ссылка на проект в GitHub Pages](https://vitalykkk.github.io/russian-travel/)
 
 
 
