@@ -4,6 +4,7 @@
   line-height: 22px;
   font-weight: 400;
   transition: 0.4s;
+  width: max-content;
 }
 
 .place__link:hover {
